@@ -1,0 +1,33 @@
+# System Design Learning Repository
+# Python dependencies for all code examples
+#
+# Install: pip install -r requirements.txt
+
+# Core utilities
+sortedcontainers==2.4.0   # Sorted data structures (LSM tree MemTable)
+redis==5.0.1              # Redis client (caching, rate limiting examples)
+requests==2.31.0          # HTTP client (load balancer, request tracer)
+
+# Data and analysis
+mmh3==4.0.1               # MurmurHash3 (bloom filters, consistent hashing)
+
+# Web framework (for runnable API examples)
+fastapi==0.104.1          # API framework
+uvicorn==0.24.0           # ASGI server
+
+# Database
+psycopg2-binary==2.9.9    # PostgreSQL client
+sqlalchemy==2.0.23        # ORM
+
+# Async
+aiohttp==3.9.1            # Async HTTP client
+
+# Visualization (optional, for consistent hashing diagrams)
+matplotlib==3.8.2
+
+# Testing
+pytest==7.4.3
+pytest-asyncio==0.21.1
+
+# Note: Some examples use only the Python standard library
+# and have no external dependencies. Check each file's header.
