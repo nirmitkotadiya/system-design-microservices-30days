@@ -1,10 +1,9 @@
 # 🏗️ 30-Day System Design Mastery
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Stars](https://img.shields.io/github/stars/yourusername/30-day-system-design?style=social)](https://github.com/yourusername/30-day-system-design)
-[![Contributors](https://img.shields.io/github/contributors/yourusername/30-day-system-design)](https://github.com/yourusername/30-day-system-design/graphs/contributors)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![Last Commit](https://img.shields.io/github/last-commit/yourusername/30-day-system-design)](https://github.com/yourusername/30-day-system-design/commits/main)
+[![Stars](https://img.shields.io/github/stars/nirmitkotadiya/system-design-microservices-30days?style=social)](https://github.com/nirmitkotadiya/system-design-microservices-30days)
+[![Contributors](https://img.shields.io/github/contributors/nirmitkotadiya/system-design-microservices-30days)](https://github.com/nirmitkotadiya/system-design-microservices-30days/graphs/contributors)
+[![Last Commit](https://img.shields.io/github/last-commit/nirmitkotadiya/system-design-microservices-30days)](https://github.com/nirmitkotadiya/system-design-microservices-30days/commits/main)
 
 > **The definitive 30-day curriculum to go from "I know what a database is" to confidently designing systems at scale — the way senior engineers at FAANG actually think.**
 
@@ -93,8 +92,8 @@ You do NOT need:
 
 ### Step 1: Fork and Clone
 ```bash
-git clone https://github.com/yourusername/30-day-system-design.git
-cd 30-day-system-design
+git clone https://github.com/nirmitkotadiya/system-design-microservices-30days.git
+cd system-design-microservices-30days
 ```
 
 ### Step 2: Set Up Your Environment
@@ -208,9 +207,8 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## 🌐 Connect
 
-- Twitter/X: [@yourusername](https://twitter.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourname)
-- Discord: [Join the community](https://discord.gg/yourserver)
+- Twitter/X: [@nirmitkotadiya](https://twitter.com/nirmitkotadiya)
+- LinkedIn: [nirmitkotadiya](https://linkedin.com/in/nirmitkotadiya) 
 
 ---
 
